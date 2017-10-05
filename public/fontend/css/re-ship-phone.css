@@ -1,0 +1,33 @@
+.re-ship-phone .item{
+    	padding: 15px 0 15px 65px;
+    	background: #f4f4f4;
+    	overflow:hidden;
+    	border-radius: 46px 0 0 46px;
+    	color: #444;
+    	font-size: 18px;
+    	position: relative;
+    	font-weight: 600;
+    	text-transform: uppercase;
+    	margin: 10px 0;
+    }
+	.re-ship-phone .item .icon .icon1{
+		background-image: url('https://bizweb.dktcdn.net/100/109/381/themes/161997/assets/return.png?1499937015181');
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.re-ship-phone .item .icon{
+		height: 50px;
+		width: 50px;
+		position: absolute;
+		left: 0;
+		top: 0;
+		border-radius: 50%;
+		background-color: #666;
+	}
+	.re-ship-phone .item .des span{
+		color: #f48549;
+	}
+	.re-ship-phone .item .des{
+		margin: 0;
+		line-height: 21px;
+	}
